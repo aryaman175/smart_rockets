@@ -1,0 +1,23 @@
+h1,h4
+{
+  position: absolute;
+}
+h1
+{
+  left:40%;
+  top:0%;
+}
+h4
+{
+  left:35%;
+  top:7%;
+  font-family: cursive;
+}
+p
+{
+  position: absolute;
+  left:73%;
+  top:20%;
+  font-size:25px;
+  font-family: monospace;
+}
